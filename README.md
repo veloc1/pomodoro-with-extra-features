@@ -4,6 +4,8 @@ This is code for running pomodoro with clock and some extra features on ESP-32.
 
 ![main image](image.jpg)
 
+![description image](pomodoro.png)
+
 # Hardware
 
 * ESP-32
