@@ -22,6 +22,8 @@ You can upload files to esp using [wcc](https://github.com/whitecatboard/Lua-RTO
 
 # Case
 
+[Printables link](https://www.printables.com/model/1305543-pomodoro-with-extra-features)
+
 ![case1](case1.png)
 ![case2](case2.png)
 
@@ -29,3 +31,17 @@ You can upload files to esp using [wcc](https://github.com/whitecatboard/Lua-RTO
 Case is very WIP, you will need to break some things after 3d printing. Also, it is not very optimized for printing now, you will need supports inside the case(supports touching only buildplate wont do). If you wish to make it better - make bigger pockets for components, and don't forget screws holders on back wall (as i did and then i just glued two parts).
 
 Components holding in place by small tpu pads. Or you can use some rubber pads, they will work the same. Also, I put small white tpu circle on top of led as improvised light diffusor.
+
+# Extra images
+
+![1](images/1.jpg)
+
+![2](images/2.jpg)
+
+![3](images/3.jpg)
+
+![4](images/4.jpg)
+
+![5](images/5.jpg)
+
+![6](images/6.jpg)
